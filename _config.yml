@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 笨方法-学习资源导航
+title: 笨方法 - 学习资源导航
 keywords: 笨方法,读书,写作,导航,资源,书单,官网,网址,大全,
 description: 笨方法学习指引、书单、相册、文集……统统都在这里。
 baseurl: "" # the subpath of your site, e.g. /blog
