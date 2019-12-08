@@ -1,0 +1,150 @@
+- name: 笨方法指南
+  icon: linecons-star
+  links: 
+    - title: 笨方法描述
+      logo: /assets/images/logos/huaban.png
+      url: 待增补
+      description: 待增补
+    - title: 凿壁偷光者
+      logo: /assets/images/logos/medium.png
+      url: 待增补
+      description: 待增补
+    - title: 笨方法四义
+      logo: /assets/images/logos/dribbble.png
+      url: 待增补
+      description: 待增补
+    - title: 笨方法四要
+      logo: /assets/images/logos/behance.png
+      url: 待增补
+      description: 待增补
+    - title: 笨方法四步
+      logo: /assets/images/logos/uicn.png
+      url: 待增补
+      description: 待增补
+    - title: 笨方法四问
+      logo: /assets/images/logos/zcool.png
+      url: 待增补
+      description: 待增补
+    - title: 电报群链接
+      logo: /assets/images/logos/pinterest.png
+      url: 待增补
+      description: 待增补
+    
+
+- name: 笨方法文集
+  icon: linecons-doc
+  links: 
+    - title: 笨方法文集
+      logo: /assets/images/logos/leiphone.png
+      url: 待增补
+      description: 待增补
+    - title: 卡片创作文集
+      logo: /assets/images/logos/36kr.png
+      url: 待增补
+      description: 待增补
+    - title: 笨方法学习故事
+      logo: /assets/images/logos/digitaling.png
+      url: 待增补
+      description: 待增补
+
+    
+- name: 笨方法学写作
+  icon: linecons-lightbulb
+  links:
+    - title: 课程官网
+      logo: /assets/images/logos/producthunt.png
+      url: 待增补
+      description: 待增补
+    - title: 课程书单
+      logo: /assets/images/logos/NEXT.png
+      url: 待增补
+      description: 待增补
+    - title: 课程博客
+      logo: /assets/images/logos/sspai.png
+      url: 待增补
+      description: 待增补
+    - title: 课程问答
+      logo: /assets/images/logos/liqi.png
+      url: 待增补
+      description: 待增补
+    - title: 卡片相册
+      logo: /assets/images/logos/today.png
+      url: 待增补
+      description: 待增补
+    - title: 99个风格练习
+      logo: /assets/images/logos/appinn.png
+      url: 待增补
+      description: 待增补
+
+
+- name: 笨方法读书
+  icon: linecons-thumbs-up   
+  links:
+    - title: 即将上线
+      logo: /assets/images/logos/producthunt.png
+      url: 待增补
+      description: 待增补
+
+
+- name: 基本系列
+  icon: linecons-diamond
+  links:
+    - title: 基本一
+      logo: /assets/images/logos/Iconfinder.png
+      url: 待增补
+      description: 待增补
+    - title: 基本二
+      logo: /assets/images/logos/iconfont.png
+      url: 待增补
+      description: 待增补
+    - title: 基本三
+      logo: /assets/images/logos/iconmonstr.png
+      url: 待增补
+      description: 待增补
+    - title: 基本四
+      logo: /assets/images/logos/iconarchive.png
+      url: 待增补
+      description: 待增补
+
+
+- name: 十年读通鉴
+  icon: linecons-pencil   
+  links:
+    - title: 方法一
+      logo: /assets/images/logos/Iconfinder.png
+      url: 待增补
+      description: 待增补
+    - title: 方法二
+      logo: /assets/images/logos/iconfont.png
+      url: 待增补
+      description: 待增补
+    - title: 方法三
+      logo: /assets/images/logos/iconmonstr.png
+      url: 待增补
+      description: 待增补
+    - title: 方法四
+      logo: /assets/images/logos/iconarchive.png
+      url: 待增补
+      description: 待增补
+
+
+- name: 关于作者
+  icon: linecons-user
+  links: 
+    - title: 公众号
+      logo: /assets/images/logos/sspai.png
+      url: 待增补
+      description: 待增补
+    - title: 知乎
+      logo: /assets/images/logos/sspai.png
+      url: 待增补
+      description: 待增补
+    - title: 豆瓣
+      logo: /assets/images/logos/sspai.png
+      url: 待增补
+      description: 待增补
+    - title: 微博
+      logo: /assets/images/logos/sspai.png
+      url: 待增补
+      description: 待增补
+    
