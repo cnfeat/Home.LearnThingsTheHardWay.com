@@ -1,49 +1,49 @@
 - name: 笨方法指南
   icon: linecons-star
   links: 
-    - title: 笨方法描述
-      logo: /assets/images/logos/compass-discover-fill.png
-      url: 待增补
-      description: 待增补
-    - title: 凿壁偷光者
+    - title: 什么是笨方法
       logo: /assets/images/logos/copper-diamond-fill.png
       url: 待增补
+      description: 待增补
       description: 待增补
     - title: 笨方法四义
       logo: /assets/images/logos/record-circle-fill.png
       url: 待增补
       description: 待增补
     - title: 笨方法四要
-      logo: /assets/images/logos/door-lock-fill.png
+      logo: /assets/images/logos/record-circle-fill.png
       url: 待增补
       description: 待增补
     - title: 笨方法四步
-      logo: /assets/images/logos/dvd-fill.png
+      logo: /assets/images/logos/record-circle-fill.png
       url: 待增补
       description: 待增补
     - title: 笨方法四问
-      logo: /assets/images/logos/question-fill.png
+      logo: /assets/images/logos/record-circle-fill.png
       url: 待增补
       description: 待增补
+    - title: 凿壁偷光者
+      logo: /assets/images/logos/group-2-fill.png
+      url: 待增补
     - title: 电报群链接
       logo: /assets/images/logos/telegram-fill.png
-      url: 待增补
-      description: 待增补
+      url: https://t.me/benfangfa
+      description: 分享笨方法的一切。
     
 
 - name: 笨方法文集
   icon: linecons-doc
   links: 
     - title: 笨方法文集
-      logo: /assets/images/logos/leiphone.png
+      logo: /assets/images/logos/arrow-down-circle-fill.png
       url: 待增补
       description: 待增补
     - title: 卡片创作文集
-      logo: /assets/images/logos/36kr.png
+      logo: /assets/images/logos/arrow-down-circle-fill.png
       url: 待增补
       description: 待增补
     - title: 笨方法学习故事
-      logo: /assets/images/logos/digitaling.png
+      logo: /assets/images/logos/arrow-down-circle-fill.png
       url: 待增补
       description: 待增补
 
@@ -52,27 +52,27 @@
   icon: linecons-lightbulb
   links:
     - title: 课程官网
-      logo: /assets/images/logos/producthunt.png
+      logo: /assets/images/logos/checkbox-circle-fill.png
       url: 待增补
       description: 待增补
     - title: 课程书单
-      logo: /assets/images/logos/NEXT.png
+      logo: /assets/images/logos/markup-fill.png
       url: 待增补
       description: 待增补
     - title: 课程博客
-      logo: /assets/images/logos/sspai.png
-      url: 待增补
+      logo: /assets/images/logos/markup-fill.png
+      url: https://www.cnfeat.com/archive/
       description: 待增补
     - title: 课程问答
-      logo: /assets/images/logos/liqi.png
+      logo: /assets/images/logos/markup-fill.png
       url: 待增补
       description: 待增补
     - title: 卡片相册
-      logo: /assets/images/logos/today.png
+      logo: /assets/images/logos/markup-fill.png
       url: 待增补
       description: 待增补
     - title: 99个风格练习
-      logo: /assets/images/logos/appinn.png
+      logo: /assets/images/logos/markup-fill.png
       url: 待增补
       description: 待增补
 
@@ -81,7 +81,7 @@
   icon: linecons-thumbs-up   
   links:
     - title: 即将上线
-      logo: /assets/images/logos/producthunt.png
+      logo: /assets/images/logos/funds-fill.png
       url: 待增补
       description: 待增补
 
@@ -90,61 +90,68 @@
   icon: linecons-diamond
   links:
     - title: 基本一
-      logo: /assets/images/logos/Iconfinder.png
+      logo: /assets/images/logos/gradienter-fill.png
       url: 待增补
       description: 待增补
     - title: 基本二
-      logo: /assets/images/logos/iconfont.png
+      logo: /assets/images/logos/gradienter-fill.png
       url: 待增补
       description: 待增补
     - title: 基本三
-      logo: /assets/images/logos/iconmonstr.png
+      logo: /assets/images/logos/gradienter-fill.png
       url: 待增补
       description: 待增补
     - title: 基本四
-      logo: /assets/images/logos/iconarchive.png
+      logo: /assets/images/logos/gradienter-fill.png
       url: 待增补
       description: 待增补
 
 
-- name: 十年读通鉴
+- name: 主题阅读
   icon: linecons-pencil   
   links:
-    - title: 方法一
-      logo: /assets/images/logos/Iconfinder.png
+    - title: 十年读通鉴
+      logo: /assets/images/logos/outlet-2-fill.png
       url: 待增补
       description: 待增补
-    - title: 方法二
-      logo: /assets/images/logos/iconfont.png
+    - title: 30天读论文
+      logo: /assets/images/logos/outlet-2-fill.png
+      url: 待增补
+    - title: 司马贺
+      logo: /assets/images/logos/outlet-2-fill.png
       url: 待增补
       description: 待增补
-    - title: 方法三
-      logo: /assets/images/logos/iconmonstr.png
+    - title: 曾国藩
+      logo: /assets/images/logos/outlet-2-fill.png
       url: 待增补
       description: 待增补
-    - title: 方法四
-      logo: /assets/images/logos/iconarchive.png
+    - title: 马奇
+      logo: /assets/images/logos/outlet-2-fill.png
       url: 待增补
       description: 待增补
+    - title: 好物清单
+      logo: /assets/images/logos/disc-fill.png
+      url: https://github.com/cnfeat/GoodThingList
+      description: 在这里，我会在此陆续奉上好用之物，附之我的使用经验/故事/心得……
 
 
 - name: 关于作者
   icon: linecons-user
   links: 
     - title: 公众号
-      logo: /assets/images/logos/sspai.png
+      logo: /assets/images/logos/wechat-fill.png
       url: 待增补
       description: 待增补
     - title: 知乎
-      logo: /assets/images/logos/sspai.png
+      logo: /assets/images/logos/zhihu-line.png
       url: 待增补
       description: 待增补
     - title: 豆瓣
-      logo: /assets/images/logos/sspai.png
+      logo: /assets/images/logos/douban-fill.png
       url: 待增补
       description: 待增补
     - title: 微博
-      logo: /assets/images/logos/sspai.png
+      logo: /assets/images/logos/weibo-fill.png
       url: 待增补
       description: 待增补
     
