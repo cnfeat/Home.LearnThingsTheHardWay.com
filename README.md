@@ -13,4 +13,7 @@
 
 ## 来源
 
-Frok 自[静态响应式网址导航网站 Webstack - Jekyll 版](https://github.com/0xl2oot/webstack-jekyll)，该模板网站由 [viggo](http://viggoz.com/) 制作。
+网站模板：Frok 自[静态响应式网址导航网站 Webstack - Jekyll 版](https://github.com/0xl2oot/webstack-jekyll)，该模板网站由 [viggo](http://viggoz.com/) 制作
+
+网站图标：[Remix Icon - Open source icon library](https://remixicon.com/)
+
