@@ -4,8 +4,7 @@
     - title: 什么是笨方法
       logo: /assets/images/logos/copper-diamond-fill.png
       url: 待增补
-      description: 待增补
-      description: 待增补
+      description: 学习任意知识的有效方法论：笨方法
     - title: 笨方法四义
       logo: /assets/images/logos/record-circle-fill.png
       url: 待增补
@@ -24,7 +23,8 @@
       description: 待增补
     - title: 凿壁偷光者
       logo: /assets/images/logos/group-2-fill.png
-      url: 待增补
+      url: https://www.cnfeat.com/blog/2019/03/19/BeStriver/
+      description: 他们有着一般人少有的可怕认真、韧性与平常心。    
     - title: 电报群链接
       logo: /assets/images/logos/telegram-fill.png
       url: https://t.me/benfangfa
@@ -36,16 +36,16 @@
   links: 
     - title: 笨方法文集
       logo: /assets/images/logos/arrow-down-circle-fill.png
-      url: 待增补
-      description: 待增补
+      url: http://book.learnthingsthehardway.com/#/
+      description: 聪明人都用笨方法，他们如何用？故事都在这里。
     - title: 卡片创作文集
       logo: /assets/images/logos/arrow-down-circle-fill.png
-      url: 待增补
-      description: 待增补
+      url: http://card.learnwritingthehardway.cn/#/
+      description: 收集卡片创作相关文章，让你尽览大师卡片创作技巧。
     - title: 笨方法学习故事
       logo: /assets/images/logos/arrow-down-circle-fill.png
-      url: 待增补
-      description: 待增补
+      url: http://story.learnwritingthehardway.cn/#/
+      description: 记录每个使用笨方法去学习、思考、行动的成长故事。
 
     
 - name: 笨方法学写作
@@ -53,28 +53,32 @@
   links:
     - title: 课程官网
       logo: /assets/images/logos/checkbox-circle-fill.png
-      url: 待增补
-      description: 待增补
+      url: http://www.learnwritingthehardway.cn/
+      description: 笨方法学写作，这一次彻底学会写作。
     - title: 课程书单
       logo: /assets/images/logos/markup-fill.png
-      url: 待增补
-      description: 待增补
+      url: https://www.douban.com/doulist/45064751/
+      description: 笨方法学写作课程参考用书。
     - title: 课程博客
       logo: /assets/images/logos/markup-fill.png
       url: https://www.cnfeat.com/archive/
-      description: 待增补
+      description: 这里有我用笨方法练习写作的所有文章。
+    - title: 电子书下载
+      logo: /assets/images/logos/markup-fill.png
+      url: https://github.com/cnfeat/GoodThingList/blob/master/Book_LearnWritingTheHardWay.pdf
+      description: 送给你的一份福利。
     - title: 课程问答
       logo: /assets/images/logos/markup-fill.png
-      url: 待增补
-      description: 待增补
+      url: https://trello.com/b/0qD7WZch/%E3%80%8A%E7%AC%A8%E6%96%B9%E6%B3%95%E5%AD%A6%E5%86%99%E4%BD%9C%E3%80%8B%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%BC%95
+      description: 学习这门课程的最佳实践是什么？
     - title: 卡片相册
       logo: /assets/images/logos/markup-fill.png
-      url: 待增补
-      description: 待增补
+      url: https://www.douban.com/photos/album/1657063257/
+      description: 70+图片，让你观摩大师如何写卡片。
     - title: 99个风格练习
       logo: /assets/images/logos/markup-fill.png
-      url: 待增补
-      description: 待增补
+      url: http://style.learnwritingthehardway.cn/#/
+      description: 个人写作练习清单。
 
 
 - name: 笨方法读书
@@ -89,50 +93,72 @@
 - name: 基本系列
   icon: linecons-diamond
   links:
-    - title: 基本一
+    - title: 学习周报的基本
       logo: /assets/images/logos/gradienter-fill.png
-      url: 待增补
-      description: 待增补
-    - title: 基本二
+      url: https://www.cnfeat.com/blog/2019/07/06/BasicWeekly/
+      description: 学习周报的意义在于建立一份自我持续学习的驱动文本。
+    - title: 个人项目的基本
       logo: /assets/images/logos/gradienter-fill.png
-      url: 待增补
-      description: 待增补
-    - title: 基本三
+      url: https://www.cnfeat.com/blog/2019/06/15/BasicProject/
+      description: 个人项目会倒逼你充分利用现有知识储备，充满热情，专注思考和动手。
+    - title: 自学的基本
       logo: /assets/images/logos/gradienter-fill.png
-      url: 待增补
-      description: 待增补
-    - title: 基本四
+      url: https://www.cnfeat.com/blog/2019/03/27/BasicLearning/
+      description: 自学比课堂学习更重要，并且值得持续一生。
+    - title: 生产力工具的基本
       logo: /assets/images/logos/gradienter-fill.png
-      url: 待增补
-      description: 待增补
+      url: https://www.cnfeat.com/blog/2019/04/03/BasicTools/
+      description: 如果某个工具你买来后能够给你带来产出，它就算是生产力工具。
+    - title: 社交媒体的基本
+      logo: /assets/images/logos/gradienter-fill.png
+      url: https://www.cnfeat.com/blog/2019/04/12/SNS/
+      description: 「我认为自己是个老师。我在堂吉诃德的意义上尽力做个老师。」
+    - title: 消费的基本
+      logo: /assets/images/logos/gradienter-fill.png
+      url: https://www.cnfeat.com/blog/2019/04/22/BasicConsume/
+      description: 多数人在不明不白地消费，只有少数人在明明白白消费。
+    - title: 男性穿搭的基本
+      logo: /assets/images/logos/gradienter-fill.png
+      url: https://www.cnfeat.com/blog/2019/04/13/BasicStyle/
+      description: 男生只需牢牢把握住以下4个基本，便可轻松选出适合自己服饰。
 
 
 - name: 主题阅读
   icon: linecons-pencil   
   links:
-    - title: 十年读通鉴
+    - title: 十年读《通鉴》
       logo: /assets/images/logos/outlet-2-fill.png
-      url: 待增补
-      description: 待增补
+      url: https://www.cnfeat.com/blog/2019/05/04/TenYears/
+      description: 十年读《通鉴》，定得时间过长了吗？
     - title: 30天读论文
       logo: /assets/images/logos/outlet-2-fill.png
-      url: 待增补
+      url: https://www.cnfeat.com/blog/2017/11/02/HowToReadPaper/
+      description: 高阶学习者与普通学习者的差距：读论文。
     - title: 司马贺
       logo: /assets/images/logos/outlet-2-fill.png
-      url: 待增补
-      description: 待增补
+      url: https://www.cnfeat.com/blog/2019/09/07/ReadSimon/
+      description: 司马贺著作不多，但信息密度大，跨领域广，阅读不易，这里梳理出一条主线。
     - title: 曾国藩
       logo: /assets/images/logos/outlet-2-fill.png
-      url: 待增补
-      description: 待增补
+      url: https://www.cnfeat.com/blog/2019/03/05/ZengGuoFan/
+      description: 普通人如何逆袭：从寒门书生到位极人臣
     - title: 马奇
       logo: /assets/images/logos/outlet-2-fill.png
-      url: 待增补
-      description: 待增补
+      url: https://www.cnfeat.com/blog/2019/09/19/ReadMarch/
+      description: 人类做事总太注重结果与逻辑。
+
+
+- name: 个人项目
+  icon: linecons-pencil   
+  links:
     - title: 好物清单
       logo: /assets/images/logos/disc-fill.png
       url: https://github.com/cnfeat/GoodThingList
       description: 在这里，我会在此陆续奉上好用之物，附之我的使用经验/故事/心得……
+    - title: 致股东信
+      logo: /assets/images/logos/disc-fill.png
+      url: https://www.cnfeat.com/blog/2019/10/07/LettersToshareholders2019/
+      description: 每年写一封信，让我知道自己处在什么位置，自己要去哪个方向去。
 
 
 - name: 关于作者
@@ -140,18 +166,18 @@
   links: 
     - title: 公众号
       logo: /assets/images/logos/wechat-fill.png
-      url: 待增补
-      description: 待增补
+      url: 微信搜索「笨方法学写作」
+      description: 
     - title: 知乎
       logo: /assets/images/logos/zhihu-line.png
-      url: 待增补
-      description: 待增补
+      url: https://www.zhihu.com/people/Feat/activities
+      description: 
     - title: 豆瓣
       logo: /assets/images/logos/douban-fill.png
-      url: 待增补
-      description: 待增补
+      url: https://www.douban.com/people/cnfeat/
+      description: 
     - title: 微博
       logo: /assets/images/logos/weibo-fill.png
-      url: 待增补
-      description: 待增补
+      url: https://www.weibo.com/207775270/home?wvr=5
+      description: 
     
