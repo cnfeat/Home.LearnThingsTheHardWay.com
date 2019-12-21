@@ -88,11 +88,18 @@
 - name: 笨方法读书
   icon: linecons-thumbs-up   
   links:
-    - title: 即将上线
+    - title: 读书技能树
       logo: /assets/images/logos/funds-fill.png
-      url: 待增补
-      description: 待增补
-
+      url: 
+      description: 即将上线
+    - title: 2018年读书总结
+      logo: /assets/images/logos/funds-fill.png
+      url: https://www.cnfeat.com/blog/2018/12/21/booklist/
+      description: 让自己保持在「知识总量增长大于个人知识摄入」的状态。
+    - title: 2017年读书总结
+      logo: /assets/images/logos/funds-fill.png
+      url: https://www.cnfeat.com/blog/2017/12/27/BookList/
+      description: 三个主题：认知 + 写作 + 产品。
 
 - name: 基本系列
   icon: linecons-diamond
