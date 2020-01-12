@@ -46,7 +46,10 @@
       logo: /assets/images/logos/arrow-down-circle-fill.png
       url: http://story.learnwritingthehardway.cn/#/
       description: 记录每个使用笨方法去学习、思考、行动的成长故事。
-
+    - title: 南方周末历年新年献辞
+      logo: /assets/images/logos/arrow-down-circle-fill.png
+      url: http://southernweekly.learnthingsthehardway.com/#/
+      description: 这是你所拥有的时间，这是你能决定的生活。
     
 - name: 笨方法学写作
   icon: linecons-lightbulb
