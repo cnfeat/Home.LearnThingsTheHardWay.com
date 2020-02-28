@@ -1,4 +1,4 @@
-- name: 笨方法指南
+- name: 笨方法成事
   icon: linecons-star
   links: 
     - title: 什么是笨方法
@@ -122,7 +122,7 @@
     - title: 生产力工具的基本
       logo: /assets/images/logos/gradienter-fill.png
       url: https://www.cnfeat.com/blog/2019/04/03/BasicTools/
-      description: 如果某个工具你买来后能够给你带来产出，它就算是生产力工具。
+      description: 某个工具能够给你带来产出，算是生产力工具。
     - title: 社交媒体的基本
       logo: /assets/images/logos/gradienter-fill.png
       url: https://www.cnfeat.com/blog/2019/04/12/SNS/
@@ -151,7 +151,7 @@
     - title: 司马贺
       logo: /assets/images/logos/outlet-2-fill.png
       url: https://www.cnfeat.com/blog/2019/09/07/ReadSimon/
-      description: 司马贺著作不多，但信息密度大，跨领域广，阅读不易，这里梳理出一条主线。
+      description: 司马贺著信息密度大，跨领域广，为你梳理出一条主线。
     - title: 曾国藩
       logo: /assets/images/logos/outlet-2-fill.png
       url: https://www.cnfeat.com/blog/2019/03/05/ZengGuoFan/
@@ -168,11 +168,11 @@
     - title: 好物清单
       logo: /assets/images/logos/disc-fill.png
       url: https://github.com/cnfeat/GoodThingList
-      description: 在这里，我会在此陆续奉上好用之物，附之我的使用经验/故事/心得……
+      description: 在此陆续奉上好用之物，附之我的使用经验/故事/心得……
     - title: 致股东信
       logo: /assets/images/logos/disc-fill.png
       url: https://www.cnfeat.com/blog/2019/10/07/LettersToshareholders2019/
-      description: 每年写一封信，让我知道自己处在什么位置，自己要去哪个方向去。
+      description: 每年写一封信，知道自己的位置与方向。
 
 
 - name: 关于作者
