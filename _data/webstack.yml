@@ -1,19 +1,10 @@
 - name: 笨方法成事
   icon: linecons-star
   links: 
-    - title: 《笨方法成事》文化集下载
+    - title: 什么是笨方法？
       logo: /assets/images/logos/copper-diamond-fill.png
       url: http://index.learnthingsthehardway.com/2019/12/WhatIs
       description: 5年精华积累，95页幻灯干货，立刻下载。
-    - title: 凿壁偷光者
-      logo: /assets/images/logos/group-2-fill.png
-      url: https://www.cnfeat.com/blog/2019/03/19/BeStriver/
-      description: 他们有着一般人少有的可怕认真、韧性与平常心。    
-    - title: 电报群链接
-      logo: /assets/images/logos/telegram-fill.png
-      url: https://t.me/benfangfa
-      description: 分享笨方法的一切。
-    
 
 - name: 笨方法文集
   icon: linecons-doc
@@ -165,6 +156,14 @@
       logo: /assets/images/logos/disc-fill.png
       url: https://www.cnfeat.com/blog/2019/10/07/LettersToshareholders2019/
       description: 每年写一封信，知道自己的位置与方向。
+    - title: 凿壁偷光者
+      logo: /assets/images/logos/group-2-fill.png
+      url: https://www.cnfeat.com/blog/2019/03/19/BeStriver/
+      description: 他们有着一般人少有的可怕认真、韧性与平常心。    
+    - title: 电报群链接
+      logo: /assets/images/logos/telegram-fill.png
+      url: https://t.me/benfangfa
+      description: 分享笨方法的一切。
 
 
 - name: 关于作者
