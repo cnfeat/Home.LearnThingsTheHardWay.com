@@ -1,26 +1,10 @@
 - name: 笨方法成事
   icon: linecons-star
   links: 
-    - title: 什么是笨方法
+    - title: 《笨方法成事》文化集下载
       logo: /assets/images/logos/copper-diamond-fill.png
       url: http://index.learnthingsthehardway.com/2019/12/WhatIs
-      description: 学习任意知识的有效方法论：笨方法
-    - title: 笨方法四义
-      logo: /assets/images/logos/record-circle-fill.png
-      url: http://index.learnthingsthehardway.com/2019/12/Dogma
-      description: 笨方法相信什么？
-    - title: 笨方法四要
-      logo: /assets/images/logos/record-circle-fill.png
-      url: http://index.learnthingsthehardway.com/2019/12/Summary
-      description: 笨方法的原则是什么？
-    - title: 笨方法四步
-      logo: /assets/images/logos/record-circle-fill.png
-      url: http://index.learnthingsthehardway.com/2019/12/Steps
-      description: 如何开始笨方法？
-    - title: 笨方法四问
-      logo: /assets/images/logos/record-circle-fill.png
-      url: 待增补
-      description: 笨方法想解决什么问题？
+      description: 5年精华积累，95页幻灯干货，立刻下载。
     - title: 凿壁偷光者
       logo: /assets/images/logos/group-2-fill.png
       url: https://www.cnfeat.com/blog/2019/03/19/BeStriver/
@@ -107,6 +91,10 @@
 - name: 基本系列
   icon: linecons-diamond
   links:
+    - title: 写作的基本
+      logo: /assets/images/logos/gradienter-fill.png
+      url: https://www.cnfeat.com/blog/2020/02/28/BasicWriting/
+      description: 写作是「身心之学」，核心是自我修养。
     - title: 学习周报的基本
       logo: /assets/images/logos/gradienter-fill.png
       url: https://www.cnfeat.com/blog/2019/07/06/BasicWeekly/
@@ -169,7 +157,11 @@
       logo: /assets/images/logos/disc-fill.png
       url: https://github.com/cnfeat/GoodThingList
       description: 在此陆续奉上好用之物，附之我的使用经验/故事/心得……
-    - title: 致股东信
+    - title: 跨学科学习不完全手册
+      logo: /assets/images/logos/disc-fill.png
+      url: https://www.cnfeat.com/blog/2017/05/30/InterdisciplinaryLearning/
+      description: 人人都知道该跨学科学习，但往往不知道何处着手。
+    - title: 致股东信 2019
       logo: /assets/images/logos/disc-fill.png
       url: https://www.cnfeat.com/blog/2019/10/07/LettersToshareholders2019/
       description: 每年写一封信，知道自己的位置与方向。
